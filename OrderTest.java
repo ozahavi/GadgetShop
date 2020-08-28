@@ -9,7 +9,6 @@ public class OrderTest {
         System.out.println();
         System.out.println();
         System.out.println(order);
-        order.sendOrder();
         System.out.println(order);
     }
 }

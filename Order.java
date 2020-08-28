@@ -9,7 +9,6 @@ public class Order {
     private int orderId;
     private int clientId;
     private int orderStatus;
-	private int shopNumber;
 
     private List<Item> items;
     private int finalPrice;

@@ -4,7 +4,6 @@ public class Client {
     private String phone;
     private String address;
     private String email;
-	private String genders;
 
 
     public Client(String name, String phone, String address, String email) {
