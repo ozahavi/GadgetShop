@@ -8,7 +8,7 @@ public class Order {
 
     private int orderId;
     private int clientId;
-    private int orderStatus;
+    private int orderStat;
 
     private List<Item> items;
     private int finalPrice;
